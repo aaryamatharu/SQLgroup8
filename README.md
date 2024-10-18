@@ -22,7 +22,8 @@ Customers purchase directly from P&G using online order methods. CustomerOrder c
 
 This structure allows a comprehensive view of how P&G’s various product lines interact with brands, suppliers, warehouses, and retailers, while also tracking customer interactions and feedback, providing insights into the lifecycle of each product line.
 
-<img width="688" alt="PNG image" src="https://github.com/user-attachments/assets/ef84cbae-3691-445d-be6c-7fb8e76b7427">
+<img width="876" alt="PNG image" src="https://github.com/user-attachments/assets/38014aaa-0944-46cf-a63c-bbce7fe38773">
+
 
 
 # Data Dictionary:
