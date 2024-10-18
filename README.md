@@ -30,6 +30,29 @@ This structure allows a comprehensive view of how P&G’s various product lines 
 # Queries
 ![Screenshot 2024-10-18 085118](https://github.com/user-attachments/assets/6ec4126e-be48-45fa-86fe-31091ce0ab34) 
 
+![Screenshot 2024-10-18 085118](https://github.com/user-attachments/assets/6ec4126e-be48-45fa-86fe-31091ce0ab34) 
+
+<img width="601" alt="Screenshot 2024-10-18 at 12 48 05 PM" src="https://github.com/user-attachments/assets/4a6183cc-6012-412e-b983-b36aa3c846ba">
+
+
+<img width="592" alt="Screenshot 2024-10-18 at 12 48 24 PM" src="https://github.com/user-attachments/assets/6a47b283-8faa-4e6d-b51c-4fe0ec7b036d">
+
+<img width="607" alt="Screenshot 2024-10-18 at 12 49 21 PM" src="https://github.com/user-attachments/assets/cc05f989-d85e-41df-b6a7-2b6357c472ab">
+
+<img width="597" alt="Screenshot 2024-10-18 at 12 49 40 PM" src="https://github.com/user-attachments/assets/7c645fd1-c4a3-4b0a-8954-caf9b975269a">
+
+<img width="593" alt="Screenshot 2024-10-18 at 12 50 00 PM" src="https://github.com/user-attachments/assets/b3cc2869-8539-4955-9e64-68e11be86a91">
+
+<img width="606" alt="Screenshot 2024-10-18 at 12 50 16 PM" src="https://github.com/user-attachments/assets/cc2de2ff-103f-4eba-b090-52ab99efe8f0">
+
+<img width="589" alt="Screenshot 2024-10-18 at 12 50 38 PM" src="https://github.com/user-attachments/assets/399d3f28-b9b0-42f3-b273-c3d636a99742">
+
+<img width="604" alt="Screenshot 2024-10-18 at 12 51 07 PM" src="https://github.com/user-attachments/assets/4f9153dd-cc64-43b6-9eef-575e39eda70b">
+
+<img width="561" alt="Screenshot 2024-10-18 at 12 51 29 PM" src="https://github.com/user-attachments/assets/7134d70a-99c2-4dea-a5d1-8d86599512fc">
+
+<img width="580" alt="Screenshot 2024-10-18 at 12 52 01 PM" src="https://github.com/user-attachments/assets/3bc6259e-c39d-4b60-99d9-4c1ab3911be8">
+
 
 # Database information:
 Name of the database : ns_4610Fa24Group8
