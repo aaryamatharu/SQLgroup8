@@ -3,7 +3,7 @@
 4610Fa24Group8
 # Team Members:
 1. Aarya Matharu [@aaryamatharu](https://www.github.com/aaryamatharu)
-2. Anica Singh @anicasingh
+2. Anica Singh [@anicasingh](https://www.github.com/anicasingh)
 3. Murray Freeman
 4. Nick Dortzbach @dortzenbacher
 5. Jonah Kilpi @Jonah-Kilpi
