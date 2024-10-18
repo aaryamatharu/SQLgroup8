@@ -4,7 +4,7 @@
 # Team Members:
 1. Aarya Matharu [@aaryamatharu](https://www.github.com/aaryamatharu)
 2. Anica Singh [@anicasingh](https://www.github.com/anicasingh)
-3. Murray Freeman
+3. Murray Freeman [@murrayfreeman](https://www.github.com/murrayfreeman)
 4. Nick Dortzbach [@dortzenbacher](https://www.github.com/dortzenbacher)
 5. Jonah Kilpi [@Jonah-Kilpi](https://www.github.com/Jonah-Kilpi)
 # Problem Description:
