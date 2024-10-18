@@ -28,7 +28,6 @@ This structure allows a comprehensive view of how P&G’s various product lines 
 
 # Data Dictionary:
 # Queries
-![Screenshot 2024-10-18 085118](https://github.com/user-attachments/assets/6ec4126e-be48-45fa-86fe-31091ce0ab34) 
 
 ![Screenshot 2024-10-18 085118](https://github.com/user-attachments/assets/6ec4126e-be48-45fa-86fe-31091ce0ab34) 
 
