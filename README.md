@@ -5,8 +5,8 @@
 1. Aarya Matharu [@aaryamatharu](https://www.github.com/aaryamatharu)
 2. Anica Singh [@anicasingh](https://www.github.com/anicasingh)
 3. Murray Freeman
-4. Nick Dortzbach @dortzenbacher
-5. Jonah Kilpi @Jonah-Kilpi
+4. Nick Dortzbach [@dortzenbacher](https://www.github.com/dortzenbacher)
+5. Jonah Kilpi [@Jonah-Kilpi](https://www.github.com/Jonah-Kilpi)
 # Problem Description:
 Our project involves modeling and developing a relational database to represent the operations of Procter & Gamble (P&G), a leading global consumer goods company. The core entity in our model is the Product Line, representing the various lines P&G manufactures and distributes across different markets. P&G collaborates with various suppliers, retailers, and customers that are crucial to P&G's business model. Our aim is to accurately model these relationships, create sample data, and populate the entities accordingly. In addition, we will perform queries on this data to extract valuable business insights, such as product sales performance, supply chain efficiency, and the impact of marketing efforts. These insights will enable us to make data-driven decisions that enhance operational effectiveness and contribute to the overall growth and profitability of the business.
 # Data Model:
