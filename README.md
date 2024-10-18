@@ -27,6 +27,27 @@ This structure allows a comprehensive view of how P&G’s various product lines 
 
 
 # Data Dictionary:
+<img width="555" alt="Screenshot 2024-10-18 at 12 55 00 PM" src="https://github.com/user-attachments/assets/45b30dd0-1182-484a-a6a3-f78d9c50cccb">
+
+<img width="558" alt="Screenshot 2024-10-18 at 12 55 11 PM" src="https://github.com/user-attachments/assets/95b95f52-2311-4a71-a8de-1d4c1a75089a">
+
+<img width="552" alt="Screenshot 2024-10-18 at 12 55 22 PM" src="https://github.com/user-attachments/assets/5188c903-7277-454d-9ad2-666f30c7352a">
+
+<img width="554" alt="Screenshot 2024-10-18 at 12 55 43 PM" src="https://github.com/user-attachments/assets/e46cc7a5-fb9c-4f8e-8529-b02d3ff9f47e">
+
+<img width="563" alt="Screenshot 2024-10-18 at 12 56 28 PM" src="https://github.com/user-attachments/assets/998da67d-b239-43c7-a483-a6ec6f5e194d">
+
+<img width="549" alt="Screenshot 2024-10-18 at 12 56 55 PM" src="https://github.com/user-attachments/assets/534b284d-29ff-441f-b7d4-4416237ee1d3">
+
+<img width="547" alt="Screenshot 2024-10-18 at 12 57 05 PM" src="https://github.com/user-attachments/assets/5318729b-a2c8-489a-b4f4-e4f610ee2cca">
+
+<img width="557" alt="Screenshot 2024-10-18 at 12 57 20 PM" src="https://github.com/user-attachments/assets/6e5fbc2c-dcc6-4fcb-91a7-3ac4839ac684">
+
+<img width="546" alt="Screenshot 2024-10-18 at 12 57 41 PM" src="https://github.com/user-attachments/assets/df514c80-e83c-4654-9aeb-0c09b44f8eb1">
+
+<img width="545" alt="Screenshot 2024-10-18 at 12 57 56 PM" src="https://github.com/user-attachments/assets/528f9cb7-79c9-430f-9450-aa7aee0a4a7c">
+
+
 # Queries
 
 ![Screenshot 2024-10-18 085118](https://github.com/user-attachments/assets/6ec4126e-be48-45fa-86fe-31091ce0ab34) 
