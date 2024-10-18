@@ -1,6 +1,6 @@
 # Team 8 Mist 4610 Group Project 1
 # Team Name:
-4610Fa24Group8
+4610 Fa24 Group8
 # Team Members:
 1. Aarya Matharu [@aaryamatharu](https://www.github.com/aaryamatharu)
 2. Anica Singh [@anicasingh](https://www.github.com/anicasingh)
